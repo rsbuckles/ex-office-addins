@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:ov="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="TaskPaneApp">
   <Id>6959415d-e3c5-477f-b626-cd03cc95e59b</Id>
-  <Version>3.7.20.0</Version>
+  <Version>3.7.21.0</Version>
   <ProviderName>Contoso</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="try-3.7.20.0"/>
+  <DisplayName DefaultValue="try-3.7.21.0"/>
   <Description DefaultValue="A template to get started."/>
   <IconUrl DefaultValue="https://rsbuckles.github.io/ex-office-addins/excel-yo-taskpane-react/dist/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://rsbuckles.github.io/ex-office-addins/excel-yo-taskpane-react/dist/assets/icon-64.png"/>
