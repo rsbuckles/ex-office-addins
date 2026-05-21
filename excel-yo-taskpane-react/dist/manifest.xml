@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:ov="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="TaskPaneApp">
   <Id>6959415d-e3c5-477f-b626-cd03cc95e59b</Id>
-  <Version>3.7.32.0</Version>
+  <Version>3.7.33.0</Version>
   <ProviderName>Contoso</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="try-3.7.32.0"/>
+  <DisplayName DefaultValue="try-3.7.33.0"/>
   <Description DefaultValue="A template to get started."/>
   <IconUrl DefaultValue="https://rsbuckles.github.io/ex-office-addins/excel-yo-taskpane-react/dist/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://rsbuckles.github.io/ex-office-addins/excel-yo-taskpane-react/dist/assets/icon-64.png"/>
@@ -35,7 +35,7 @@
                 <Label resid="CommandsGroup.Label"/>
                 <Icon>
                   <bt:Image size="16" resid="Icon.16x16"/>
-                  <bt:Image size="32" resid="Icon.32x32"/>
+                  <bt:Image size="32" resid="Icon.33x32"/>
                   <bt:Image size="80" resid="Icon.80x80"/>
                 </Icon>
                 <Control xsi:type="Button" id="TaskpaneButton">
@@ -46,7 +46,7 @@
                   </Supertip>
                   <Icon>
                     <bt:Image size="16" resid="Icon.16x16"/>
-                    <bt:Image size="32" resid="Icon.32x32"/>
+                    <bt:Image size="32" resid="Icon.33x32"/>
                     <bt:Image size="80" resid="Icon.80x80"/>
                   </Icon>
                   <Action xsi:type="ShowTaskpane">
@@ -63,7 +63,7 @@
     <Resources>
       <bt:Images>
         <bt:Image id="Icon.16x16" DefaultValue="https://rsbuckles.github.io/ex-office-addins/excel-yo-taskpane-react/dist/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://rsbuckles.github.io/ex-office-addins/excel-yo-taskpane-react/dist/assets/icon-32.png"/>
+        <bt:Image id="Icon.33x32" DefaultValue="https://rsbuckles.github.io/ex-office-addins/excel-yo-taskpane-react/dist/assets/icon-32.png"/>
         <bt:Image id="Icon.80x80" DefaultValue="https://rsbuckles.github.io/ex-office-addins/excel-yo-taskpane-react/dist/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
